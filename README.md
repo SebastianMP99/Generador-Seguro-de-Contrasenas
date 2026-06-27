@@ -1,18 +1,17 @@
-# Generador Seguro de Contraseñas
+# Generador Seguro de Contraseñas#
 
-## Integrante
+#Desasrrollador #
+Cristian Sebastián Martinez Pujota
 
-Sebastián MP
-
-## Asignatura
+# Asignatura #
 
 Lógicas de Programación
 
-## Objetivo del sistema
+# Objetivo del sistema #
 
 Desarrollar un programa en Python que permita generar contraseñas seguras utilizando estructuras básicas de programación, con el fin de fortalecer la seguridad de la información de los usuarios.
 
-## Funcionalidades
+# Funcionalidades #
 
 - Solicita el nombre del usuario.
 - Permite seleccionar el número de caracteres.
@@ -23,12 +22,12 @@ Desarrollar un programa en Python que permita generar contraseñas seguras utili
 - Evalúa el nivel de seguridad de la contraseña.
 - Permite generar una nueva contraseña.
 
-## Herramientas utilizadas
+# Herramientas utilizadas #
 
-- Python
-- GitHub
-- RAPTOR
+- Python para generar el codigo
+- GitHub como repositorio de almacenamiento de informacion
+- RAPTOR como plataforma de creacion de diagramas
 
-## Fecha
+#Fecha #
 
-Julio 2026
+27/Julio/2026
